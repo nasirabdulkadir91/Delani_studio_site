@@ -14,7 +14,7 @@ This is a web page for Delani studio. For those who want to visit the page and k
 This project is written in HTML, CSS, Bootstrap, jQuery and JavaScript.
 
 ## Support and contact details
-Should you be unable to access my web application, have any recommendations or questions, feel free to email me; nasirabdulkadir91@gmail.com.
+Should you find difficulties accessing my web page, find hard reading my codes and have any recommendations or questions, feel free to email me; nasirabdulkadir91@gmail.com.
 
 ## To-do
 1. Validation of email addresses entered
