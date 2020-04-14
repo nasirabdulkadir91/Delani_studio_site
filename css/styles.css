@@ -1,0 +1,221 @@
+body {
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1.1em;
+}
+
+.jumbotron {
+  background: url("../assets/welcome-to-delani-studios.jpg") no-repeat;
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+.jumbotron h1 {
+  margin: 0 auto;
+  width: 80%;
+}
+
+ h1{
+  font-weight: 300;
+}
+
+.container {
+  width: 100%;
+}
+
+.section {
+  height: 50vh;
+}
+
+.jumbotron, #services, #contact {
+  color: white;
+  text-shadow: 1px 1px black;
+}
+
+#services {
+  background: url("../assets/services.jpg") no-repeat;
+}
+
+#contact {    
+  background: url("../assets/contact-us.jpg") no-repeat;
+}
+
+.input, textarea {
+  background-color: rgba(0,0,0,0.0);
+}
+
+.translucent{
+  background-color: rgba(0,0,0,0.5);   
+}
+#button {
+  border: 1px solid greenyellow;
+  border-radius: 20px;
+}
+
+ body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+ h2 {
+  text-align: center;
+}
+#showing {
+  display: none;
+}
+#showing-d {
+  display: none;
+
+}
+.header{
+  background-image: url("../pictures/h_img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  color: white;
+
+}
+.header p{
+  padding-bottom: 10%;
+}
+ body{
+  text-align: center;
+}
+#showing-p {
+  display: none;
+}
+.services {
+  background-image: url("../img/img3.jpg");
+  color: #fff;
+  padding: 20px;
+
+}
+.contact {
+  background-image: url("../img/img1.jpg");
+  height: 400px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.form-control{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  width: 200px;
+}
+.over{
+  position: absolute;
+  margin-top: -92%;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 100%;
+  width: 91%;
+}
+.over h3{
+  margin-top: 40%;
+  border: 3px solid white;
+}
+.input{
+  background: transparent;
+  color: white;
+}
+.icons{
+  margin-top : 200px;
+}
+
+.tm-container {
+  max-width: 70vw;
+  margin: 0 auto;
+}
+
+.container {
+ position: relative;
+}
+
+.middle {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ -ms-transform: translate(-50%, -50%);
+ text-align: center;
+ background: white;
+ opacity: 0.55;
+ font-weight: bolder;
+}
+
+.came{
+  text-align: center;
+  padding-top: 10%;
+}
+
+.top{
+  padding-bottom: 10%;
+} 
+
+.card{
+width: 33.33%;
+}
+ body{
+ overflow-x: hidden;
+}
+
+#part-1 {
+  background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true');
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+  height: 97vh;
+  font-family: 'Gugi', cursive;
+  margin-bottom: 0;
+}
+
+#part-2 {
+ font-size: calc(1vw + 1vh + .5vmin);
+ background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true');
+ color: white;
+   margin-top: 5%;
+}
+.show1,.show2,.show0{
+ display: none;
+}
+#part-3 {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ margin-top: 5%;
+}
+#part-4 {
+  background-image: url(../pictures/c_image.jpg);
+  height: 80vh;
+  margin-top: 10%;
+  background-repeat: no-repeat;
+}
+.col-md-12 {
+   margin: 10px 0;
+   padding: 10%
+   font-size  calc(1vw + 1vh + .5vmin);
+}
+
+#del {
+   padding-top: 20px;
+}
+.col-md-12 h1,#part-2 h1 {
+ font-size: calc(3vw + 3vh + .5vmin);
+}
+.form{
+opacity: 0.55;
+}
+.meso{
+text-align: center;
+width: 100%;
+}
+footer{
+  text-align: center;
+  margin-top: 5%;
+}
