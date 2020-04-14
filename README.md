@@ -19,5 +19,5 @@ Should you be unable to access my web application, have any recommendations or q
 ## To-do
 1. Validation of email addresses entered
 
-## [License]
+## [License](https://github.com/nasirabdulkadir91/delani-studio-site/blob/master/LICENSE.md)
 MIT (c) 2020 [Abdinassir Abdulkadir](https://github.com/nasirabdulkadir91)
