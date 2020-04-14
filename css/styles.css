@@ -50,7 +50,7 @@ body {
 .translucent{
   background-color: rgba(0,0,0,0.5);   
 }
-#button {
+#btns {
   border: 1px solid greenyellow;
   border-radius: 20px;
 }
