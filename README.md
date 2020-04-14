@@ -6,7 +6,7 @@ This is a web page for Delani studio. For those who want to visit the page and k
 
 
 ## Setup/Use requirements
-- Visit the website at https://nasirabdulkadir91.github.io/delani-studio-site/
+- Visit the website at  https://nasirabdulkadir91.github.io/Delani_studio_site/
 - Click on the What We Do icons to view a short description of the services we offer
 - Reach out to us by sending us an email
 
